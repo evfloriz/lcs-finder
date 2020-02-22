@@ -1,0 +1,9 @@
+To compute an LCS,
+enter the first sequence: enter the second sequence: Error, non-digit character detected!
+
+To compute an LCS,
+enter the first sequence: enter the second sequence: # Two input sequences (length = 10, 11) are:
+9234982374
+29834792387
+# an LCS (length = 7) is:
+2349237

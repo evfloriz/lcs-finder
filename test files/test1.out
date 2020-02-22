@@ -1,0 +1,6 @@
+To compute an LCS,
+enter the first sequence: enter the second sequence: # Two input sequences (length = 10, 10) are:
+1111111111
+9999999999
+# an LCS (length = 0) is:
+
